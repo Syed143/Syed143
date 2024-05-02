@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Syed143
-- 👀 I’m interested in C programming and Embedded Linux
+- 👀 I’m interested in C programming and Embedded systems
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - syedashief143@gmail.com
